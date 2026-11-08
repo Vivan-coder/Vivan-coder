@@ -3,6 +3,6 @@
 </p>
 
 <p align="center">
-  Luffy powers up with every contribution: Gear 2 at 1,000, Gear 3 at 2,000, Gear 4 at 3,000 and 4,000, Gear 5 at 5,000.<br/>
+  Luffy powers up with every contribution: Gear 2 at 400, Gear 3 at 800, Gear 4 at 1,200 and 1,600, Gear 5 at 2,000.<br/>
   <a href="https://github.com/Vivan-coder/luffygearup">Get your own &rarr; luffygearup</a>
 </p>
